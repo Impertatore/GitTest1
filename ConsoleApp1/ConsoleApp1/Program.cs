@@ -14,6 +14,8 @@ namespace ConsoleApp1
             // code was edited in VS
 
             // code was added to feature 1
+
+            // created feature 2
         }
     }
 }
