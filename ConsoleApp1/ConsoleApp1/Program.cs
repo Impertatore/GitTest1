@@ -16,6 +16,8 @@ namespace ConsoleApp1
             // code was added to feature 1
             
             // code was added for feature 3
+
+            // created feature 2
         }
     }
 }
